@@ -16,8 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a sociologist of migration and housing, researching how private ownership and market reforms in formerly socialist societies have transformed the politics of citizenship. 
+I am a sociologist of immigration and housing. I am interested in how delegating citizenship and welfare administration to private actors affects migrant outcomes. My research addresses why private citizens in formerly socialist societies have surprisingly become authoritative gatekeepers for welfare and migrant legal status.
 
-My dissertation focuses on Russia, the 4th largest global destination for migrant labor, and traces how private homeowners have come to redefine national boundaries and maintain migrant exclusion. 
+My dissertation focuses on Russia, the fourth largest global destination for migrant labor, and traces how private homeowners have come to redefine national boundaries and maintain migrant exclusion.
 
-My work develops comparative perspectives for the role of private authority in civic inclusion, social welfare, and legal status.
+In collaboration with critical legal and computer science scholars, another strand of my research focuses on the rise of tech contractors and legal software in US welfare governance.
+
+My work develops comparative perspectives for the role of private authority in citizenship governance and administration.
