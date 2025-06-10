@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a sociologist of immigration and housing. I am interested in how delegating citizenship and welfare administration to private actors affects migrant outcomes. My research addresses why private citizens in formerly socialist societies have surprisingly become authoritative gatekeepers for welfare and migrant legal status.
+Hello! I am a sociologist of immigration and housing. I am interested in how delegating citizenship and welfare administration to private actors affects migrant outcomes. My research addresses why private citizens in formerly socialist societies have surprisingly become authoritative gatekeepers for welfare and migrant legal status.
 
 My dissertation focuses on Russia, the fourth largest global destination for migrant labor, and traces how private homeowners have come to redefine national boundaries and maintain migrant exclusion.
 
