@@ -9,7 +9,7 @@ nav_order: 6
 
 <h4>Instructor of Record</h4>
 <ul>
-    <li>SOC 305 & POLSCI 489: <i>Sociology of Citizenship</i> (Summer 2024)</li>
+    <li>SOC 495 & POLSCI 489: <i>Sociology of Citizenship</i> (Summer 2024)</li>
 </ul>
 
 <h4>Graduate Student Instructor</h4>
